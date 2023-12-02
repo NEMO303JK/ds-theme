@@ -36,9 +36,10 @@
 	--accent-5: hsl(190, 80%, 30%);
 
 	/* color of mentions and messages that mention you */
-	--mention: hsla(56, 100%, 51%, 0.45);
+	--mention: hsla(190, 80%, 52%, 0.1);
 	/* color of mentions and messages that mention you when hovered */
-	--mention-hover: hsla(56, 100%, 51%, 0.30);
+	--mention-hover: hsla(190, 80%, 52%, 0.05);
+
 
 	/* color of bright text on colored buttons */
 	--text-1: hsl(220, 40%, 90%);
@@ -79,8 +80,8 @@
   --overlay-image-size: cover;
   --overlay-image-position: 
   --left-brightness: 0.06;
-	  --gradient-primary: 3,169,244;
-  --gradient-secondary: 0,150,136;
+	  --gradient-primary: 46,100,39;
+  --gradient-secondary: 46,100,0;
   --middle-brightness: 0.08;
   --right-brightness: 0.08;
   --overlay-brightness: 0.08;
