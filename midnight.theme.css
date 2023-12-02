@@ -23,9 +23,6 @@
 	/* color of green online dot, change to #23a55a for default green */
 	--online-indicator: var(--accent-2);
 
-	/* top left icon */
-	--moon-icon: block; /* change to 'none' to hide moon icon */
-	--discord-icon: none; /* change to 'block' to show default discord icon */
 
 	/* color of links */
 	--accent-1: hsl(190, 80%, 60%);
@@ -61,7 +58,7 @@
 	/* color of spacing around panels and secondary elements */
 	--bg-3: hsl(220, 15%, 13%);
 	/* main background color */
-	--bg-4: hsl(220, 15%, 10%);
+	--bg-4: hsl(0, 0%, 0%);
 
 	/* color of channels and icon buttons when hovered */
 	--hover: hsla(230, 20%, 40%, 0.1);
@@ -81,7 +78,6 @@
   --overlay-image-blur: 9px;
   --overlay-image-size: cover;
   --overlay-image-position: 
-  --serverlist-brightness: 0.06;
   --left-brightness: 0.06;
   --middle-brightness: 0.08;
   --right-brightness: 0.08;
