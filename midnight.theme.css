@@ -93,5 +93,7 @@
   --window-padding: 8px;
   --window-roundness: 0px;
   --update-notice-1: none;
+	  --gradient-primary: 0,0,0;
+  --gradient-secondary: 0,0,0;
 
 }
