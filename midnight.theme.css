@@ -46,11 +46,12 @@
 	/* color of headings and important text */
 	--text-2: hsl(220, 25%, 70%);
 	/* color of normal text */
-	--text-3: hsl(220, 25%, 40%);
+	--text-3: hsl(220, 15%, 60%);
 	/* color of icon buttons and channels */
 	--text-4: hsl(220, 15%, 40%);
 	/* color of muted channels/chats and timestamps */
 	--text-5: hsl(220, 15%, 25%);
+
 
 	/* color of dark buttons when clicked */
 	--bg-1: hsl(220, 15%, 20%);
@@ -67,7 +68,7 @@
 	--active: hsla(220, 20%, 40%, 0.2);
 	/* color of messages when hovered */
 	--message-hover: hsla(220, 0%, 0%, 0.1);
-	
+
 	 --background-image: url('https://static.vecteezy.com/system/resources/previews/013/769/391/non_2x/orchid-flowers-frame-black-background-abstract-art-wallpaper-japanese-design-live-curved-monochrome-vector.jpg');
   --background-image-blur: 6px;
   --background-image-size: contain;
