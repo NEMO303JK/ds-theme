@@ -70,6 +70,7 @@
 	--active: hsla(220, 20%, 40%, 0.2);
 	/* color of messages when hovered */
 	--message-hover: hsla(220, 0%, 0%, 0.1);
+	
 	 --background-image: url('https://static.vecteezy.com/system/resources/previews/013/769/391/non_2x/orchid-flowers-frame-black-background-abstract-art-wallpaper-japanese-design-live-curved-monochrome-vector.jpg');
   --background-image-blur: 6px;
   --background-image-size: contain;
