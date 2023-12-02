@@ -5,10 +5,10 @@
 */
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!! */
-
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
 @import url('https://fonts.googleapis.com/css2?family=gg+sans:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+
 
 /* change colors and variables here */
 :root {
