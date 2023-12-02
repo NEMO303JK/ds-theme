@@ -83,7 +83,7 @@
   --right-brightness: 0.08;
   --overlay-brightness: 0.08;
     --gradient-primary: 19,19,19;
-  --gradient-secondary: 157,157,157;
+  --gradient-secondary: 0,0,0;
   --link-colour: #00B8FF;
   --scrollbar-colour: hsl(0, 0%, 50%);
   --gradient-direction: 171deg;
