@@ -85,7 +85,7 @@
   --gradient-primary: 0,0,0;
   --gradient-secondary: 0,0,0;
   --link-colour: #00B8FF;
-  --scrollbar-colour: rgb(181,119,172,0);
+  --scrollbar-colour: hsl(0, 0%, 50%);
   --gradient-direction: 171deg;
   --tint-colour: 0,0,0;
   --tint-brightness: 0.18;
