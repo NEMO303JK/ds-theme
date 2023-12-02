@@ -66,24 +66,29 @@
 	--active: hsla(220, 20%, 40%, 0.2);
 	/* color of messages when hovered */
 	--message-hover: hsla(220, 0%, 0%, 0.1);
+	
 	 --background-image: url('https://static.vecteezy.com/system/resources/previews/013/769/391/non_2x/orchid-flowers-frame-black-background-abstract-art-wallpaper-japanese-design-live-curved-monochrome-vector.jpg');
-  --background-image-blur: 6px;
+  --background-image-blur: 3px;
   --background-image-size: contain;
   --background-image-position: center;
   --popout-image: var(--background-image);
-  --popout-image-blur: 8px;
+  --popout-image-blur: 5px;
   --popout-image-size: contain;
   --popout-image-position: center;
   --overlay-image: var(--background-image);
-  --overlay-image-blur: 9px;
+  --overlay-image-blur: 6px;
   --overlay-image-size: cover;
-  --overlay-image-position: 
-  --left-brightness: 0.06;
-  --middle-brightness: 0.08;
-  --right-brightness: 0.08;
-  --overlay-brightness: 0.08;
-    --gradient-primary: 19,19,19;
-  --gradient-secondary: 0,0,100;
+  --overlay-image-position: bottom right;
+  --home-button-image: url('https://i.imgur.com/JMG5joK.png');
+  --home-button-size: contain;
+  --home-button-position: top left;
+  --serverlist-brightness: 0.36;
+  --left-brightness: 0.36;
+  --middle-brightness: 0.36;
+  --right-brightness: 0.36;
+  --overlay-brightness: 0.36;
+  --gradient-primary: 19,19,19;
+  --gradient-secondary: 0,0,50;
   --link-colour: #00B8FF;
   --scrollbar-colour: hsl(0, 0%, 50%);
   --gradient-direction: 171deg;
@@ -93,4 +98,8 @@
   --window-padding: 8px;
   --window-roundness: 0px;
   --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 3;
+  --aligndms: 0;
+}
 }
