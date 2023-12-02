@@ -79,11 +79,12 @@
   --overlay-image-size: cover;
   --overlay-image-position: 
   --left-brightness: 0.06;
+	  --gradient-primary: 3,169,244;
+  --gradient-secondary: 0,150,136;
   --middle-brightness: 0.08;
   --right-brightness: 0.08;
   --overlay-brightness: 0.08;
-  --gradient-primary: 0,0,0;
-  --gradient-secondary: 0,0,0;
+
   --link-colour: #00B8FF;
   --scrollbar-colour: hsl(0, 0%, 50%);
   --gradient-direction: 171deg;
